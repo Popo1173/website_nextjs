@@ -12,3 +12,6 @@ npx create-next-app<br>
 
 ## PWA モジュールインストール
 npm i -D next-offline
+
+## SASS/SCSS
+yarn add @zeit/next-sass node-sass
