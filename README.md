@@ -9,3 +9,8 @@ npm install --save next react react-dom //Next.jsをインストール<br>
   }<br>
   <br>
   mkdir pages　//pagesを作りindex.jsを作るこれがあるとルートとして読み込まれるため<br>
+  
+## PWA のモジュールをインストール
+npm i -D next-offline
+## now v2 でデプロイするとき以外は実行
+touch server.js
