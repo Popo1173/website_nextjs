@@ -9,3 +9,6 @@ npx create-next-app<br>
 <br>
   yarn start<br>
     Runs the built app in production mode.<br>
+
+## PWA モジュールインストール
+npm i -D next-offline
